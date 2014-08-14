@@ -1,0 +1,33 @@
+{
+  "name": "rxjs-operators",
+  "title": "Operators for Reactive Extensions for JavaScript (RxJS)",
+  "version": "0.1.0",
+  "homepage": "https://github.com/danbim/rxjs-operators",
+  "author": {
+    "name": "Daniel Bimschas",
+    "url": "https://github.com/danbim"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danbim/rxjs-operators.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "bugs": "https://github.com/danbim/rxjs-operators/issues",
+  "dependencies": {
+    "rx" : "2.3.1"
+  },
+  "keywords": [
+    "LINQ",
+    "FRP",
+    "Reactive",
+    "Events",
+    "Rx",
+    "RxJS"
+  ],
+  "main": "rx-operators.js"
+}
